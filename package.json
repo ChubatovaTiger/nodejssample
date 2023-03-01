@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/auth0/in-memory-todo",
   "dependencies": {
-    "body-parserSSS": "^1.6.5",
-    "compression": "^1.0.11",
+    
+   "compression": "^1.0.11",
     "cors": "^2.4.1",
     "dotenv": "^0.4.0",
     "errorhandler": "^1.1.1",
